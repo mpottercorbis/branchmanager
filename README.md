@@ -1,2 +1,3 @@
-branchmanager
-=============
+Branch Manager
+==============
+MVC4 project for managing feature branches on our dev server.  We'll see how this goes...
